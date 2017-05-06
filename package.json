@@ -1,0 +1,28 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "give user a prompt, question, to then give answer",
+  "main": "cards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eburns1209/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "front",
+    "back",
+    "missing",
+    "piece"
+  ],
+  "author": "e. stowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eburns1209/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/eburns1209/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
